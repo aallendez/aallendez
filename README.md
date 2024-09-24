@@ -6,6 +6,8 @@
 
 I'm a Full Stack Developer and AI student based in Madrid, Spain. My journey into tech started at 13 when I got into video editing and vfx. Now, I'm passionate about building software that improves businesses and user experiences. I love working with data to iterate and enhance products and experiences.
 
+[Visit My Portfolio Website](https://aallendez.me)
+
 🛠️ **Tech Stack**  
 - **Frontend**: React, TailwindCSS  
 - **Backend**: Python, MongoDB  
@@ -29,5 +31,3 @@ Premiere Pro, Photoshop, After Effects, Zapier
   Tech: HTML, CSS, JavaScript, Python
 
 Feel free to reach out if you want to collaborate on projects or share ideas!
-
-[Portfolio Website](https://aallendez.onrender.com)
