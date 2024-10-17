@@ -2,8 +2,6 @@
 
 **Full Stack Developer | CS & AI Student**
 
-👋 **Hi! I'm Juan**
-
 [Visit My Website](https://aallendez.me)
 
 🛠️ **Tech Stack**  
