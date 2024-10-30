@@ -7,6 +7,6 @@
 🛠️ **Tech Stack**  
 - **Frontend**: React, TailwindCSS  
 - **Backend**: Python, MongoDB, MySQL
-- **APIs**: Shopify, GraphiQL
+- **APIs**: Shopify, GraphQL
   
 Feel free to reach out if you want to collaborate on projects or share ideas!
