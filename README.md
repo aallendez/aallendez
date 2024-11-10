@@ -8,7 +8,7 @@
 
 #### **Frontend**
 - **Frameworks**: React, Vite
-- **Styling**: Tailwind CSS
+- **Styling**: CSS, Tailwind CSS
 
 #### **Backend**
 - **Languages**: Python
@@ -17,6 +17,7 @@
 #### **APIs & Integrations**
 - **E-commerce**: Shopify Hydrogen
 - **Data**: GraphQL
+- **AI**: OpenAI API
 
 #### **Additional Frameworks**
 - **Full-Stack**: Remix
