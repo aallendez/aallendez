@@ -1,12 +1,25 @@
 # Juan Alonso-Allende
 
-**Full Stack Developer | CS & AI Student**
+**Full Stack Developer | Computer Science & AI Student**
 
-[Visit My Website](https://aallendez.me)
+🌐 [Visit My Website](https://aallendez.me)
 
-🛠️ **Tech Stack**  
-- **Frontend**: React, TailwindCSS  
-- **Backend**: Python, MongoDB, MySQL
-- **APIs**: Shopify Hydrogen, GraphQL
+### 🛠️ Tech Stack
+
+#### **Frontend**
+- **Frameworks**: React, Vite
+- **Styling**: Tailwind CSS
+
+#### **Backend**
+- **Languages**: Python
+- **Databases**: MongoDB, MySQL
+
+#### **APIs & Integrations**
+- **E-commerce**: Shopify Hydrogen
+- **Data**: GraphQL
+
+#### **Additional Frameworks**
+- **Full-Stack**: Remix
   
-Feel free to reach out if you want to collaborate on projects or share ideas!
+### 📫 Let's Connect!
+Feel free to reach out if you’d like to collaborate on projects, share ideas, or discuss anything tech-related!
