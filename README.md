@@ -2,19 +2,26 @@
 
 **Software Engineer | Computer Science & AI Student**
 
-Hi! I'm Juan, a 21y/o from Spain 🇪🇸 who likes building software products, playing guitar and doing endurance sports. If you're into any of the 3, feel free to reach out!
+Hi! I'm Juan, a 21y/o from Spain 🇪🇸. I love building software products 💻, playing guitar 🎸 and doing endurance sports 🏊‍♂️. If you're into any of the 3, feel free to reach out 🫡!
 
 🌐 [juan.aallende.com](https://juan.aallende.com)
-💬 [Twitter/X](https://www.x.com/)
+
+💬 [Twitter / X](https://www.x.com/)
+
 💼 [LinkedIn](https://juan.aallende.com)
 
 ### Experience
 Product & AI Engineer (intern) @ [Kibo Ventures](https://kiboventures.com)
+
 Software Engineer (intern) @ [Uptime Labs](https://uptimelabs.io)
+
 Founding Engineer @ [Pledge](https://fuckscrolling.com)
+
 Tech Lead @ [LaRocket](https://www.linkedin.com/company/larocket-es)
 
+
 ### My stack
+Since I started building, these have been the stack I've used the most!
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
