@@ -8,7 +8,7 @@ Hi! I'm Juan, a 21y/o from Spain 🇪🇸. I love building software products �
 
 💬 [Twitter / X](https://www.x.com/)
 
-💼 [LinkedIn](https://juan.aallende.com)
+💼 [LinkedIn](https://www.linkedin.com/in/aallendez)
 
 ### Experience
 Product & AI Engineer (intern) @ [Kibo Ventures](https://kiboventures.com)
