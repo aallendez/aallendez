@@ -19,6 +19,12 @@ Founding Engineer @ [Pledge](https://fuckscrolling.com)
 
 Tech Lead @ [LaRocket](https://www.linkedin.com/company/larocket-es)
 
+### Other cool stuff I've built
+
+[Spoticircle.xyz](https://www.spoticircle.xyz/) - An app to visualize spotify stats in a new way (in permanent beta since spotify won't let me make it public 😔)
+
+[Subscription flows](https://www.cricklecreekcoffee.com/pages/subscription) - Cool subscription flows I've developed for some coffee brands
+
 
 ### My stack
 Since I started building, these have been the stack I've used the most!
