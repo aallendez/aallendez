@@ -15,6 +15,7 @@ Founding Engineer @ [Pledge](https://fuckscrolling.com)
 Tech Lead @ [LaRocket](https://www.linkedin.com/company/larocket-es)
 
 ### My stack
+
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
@@ -32,8 +33,3 @@ Tech Lead @ [LaRocket](https://www.linkedin.com/company/larocket-es)
   <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-1E90FF?style=flat-square&logo=chainlink&logoColor=white" />
   <img alt="LangGraph" src="https://img.shields.io/badge/-LangGraph-8A2BE2?style=flat-square&logo=graphql&logoColor=white" />
 </p>
-
-
-
-### 📫 Let's Connect!
-Feel free to reach out if you’d like to collaborate on projects, share ideas, or discuss anything tech-related!
