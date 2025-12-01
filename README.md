@@ -15,7 +15,7 @@ Product & AI Engineer (intern) @ [Kibo Ventures](https://kiboventures.com)
 
 Software Engineer (intern) @ [Uptime Labs](https://uptimelabs.io)
 
-Founding Engineer @ [Pledge](https://fuckscrolling.com)
+Founding Engineer @ [Pledge]([https://fuckscrolling.com](https://www.linkedin.com/company/pledg-offline))
 
 Tech Lead @ [LaRocket](https://www.linkedin.com/company/larocket-es)
 
