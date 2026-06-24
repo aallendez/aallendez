@@ -11,7 +11,7 @@ Hi! I'm Juan, a 21y/o from Spain 🇪🇸. I love building software products �
 💼 [LinkedIn](https://www.linkedin.com/in/aallendez)
 
 ### Experience
-Product & AI Engineer @ [Kibo Ventures](https://kiboventures.com)
+Software & AI Engineer @ [Kibo Ventures](https://kiboventures.com)
 
 Software Engineer (intern) @ [Uptime Labs](https://uptimelabs.io)
 
